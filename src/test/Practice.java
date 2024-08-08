@@ -9,6 +9,6 @@ public class Practice {
 
         System.out.print (b-a + "\n");
         System.out.printf("hi");
-        System.out.printf("");
+
     }}
 
