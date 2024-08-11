@@ -62,7 +62,6 @@ public class Employee {
         // Create an Employee object
         Employee emp = new Employee("John Doe", 101, "Engineering", 75000.00);
 
-        // Display the employee details
         emp.displayEmployeeDetails();
     }
 }
